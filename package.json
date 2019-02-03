@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "http-parser-js": "^0.4.11",
-    "git+https://git@github.com/Tayo-00/turbo-net.git": "^1.4.0"
+    "turbo-net": "git+ssh://git@github.com/Tayo-00/turbo-net.git"
   },
   "devDependencies": {
     "autocannon": "^2.4.1",
